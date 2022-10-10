@@ -98,7 +98,7 @@ text { fill: #000; font-size: 18px; }
 #career ul { width: 1400px; margin: 0 auto; text-align: right; display: flex;  justify-content: space-around; font-size: 20px; }
 #career li { width: 100%; margin-bottom:  40px; }
 #career span { position: absolute; left: 150px; font-weight: bold; }
-#career img { margin-left: 80px; width: 1700px; }
+#career img { margin-left: 80px; width: 1650px; }
 
 #work { position: relative; }
 .title { height: 800px; position: relative; }
@@ -107,21 +107,21 @@ text { fill: #000; font-size: 18px; }
 .pink2 { position: absolute; top: 50px; right: 100px; }
 .circle2 { position: absolute; bottom: 70px; right: 470px; width: 220px; }
 
-.svg3 { width: 1600px; height: 765px; position: absolute; top: 0; left: 100px; }
+.svg3 { width: 1600px; height: 765px; position: absolute; top: 0; left: 120px; }
 
 .nespresso1 { height: 600px; margin: 200px 0; position: relative; }
-.nespresso1 h3 { font-size: 35px; font-weight: normal; margin: 0 0 150px 70px; }
+.nespresso1 h3 { font-size: 37px; font-weight: normal; margin: 0 0 150px 70px; }
 .shadow { position: absolute; top: 0; left: -210px;  }
 .index1 { position: absolute; top: 50px; right: 140px; }
 .blackStar2 { position: absolute; bottom: 0; right: 100px; width: 80px; }
 
-.nespresso1 p { font-size: 25px; font-weight: lighter; margin-left: 120px; } 
+.nespresso1 p { font-size: 28px; font-weight: lighter; margin-left: 120px; } 
 
 .nespresso1 p:nth-of-type(1) { position: absolute; top: 70px; right: -20px; transform: rotate(-90deg); font-weight: lighter; font-size: 17px; }
 
 .nespresso1 p:nth-of-type(1) span { padding: 0 20px; }
 
-.nespresso1 p:nth-of-type(2) { margin-bottom: 35px; font-size: 30px; font-weight: 400; }
+.nespresso1 p:nth-of-type(2) { margin-bottom: 35px; font-size: 32px; font-weight: 400; }
 .nespresso1 a { position: absolute; top: 214px; left: 300px; font-weight: 100; }
 .nespresso1 a::after { display:block; content: ''; border-bottom: solid 3px #ccc; transform: scaleX(0); transition: transform 350ms ease-in-out; padding-top: 5px; }
 .nespresso1 a:hover::after {  transform: scaleX(1); transform-origin:  0% 50%; }
@@ -132,9 +132,9 @@ text { fill: #000; font-size: 18px; }
 .nespresso1 p:nth-of-type(5) { position: absolute; top: 220px; right: 240px; font-size: 19px; line-height: 38px; }
 
 .mockup { height: 1450px; }
-.mockup img { margin: 0 0 180px 150px;  }
-.mockup h3 { font-size: 50px; margin-left: 70px; font-weight: 300; }
-.mockup div { width: 1300px; margin: 80px auto; display: flex; justify-content: space-around; font-size: 23px; line-height: 38px; font-weight: lighter; }
+.mockup img { margin: 0 0 170px 150px;  }
+.mockup h3 { font-size: 52px; margin-left: 70px; font-weight: 300; }
+.mockup div { width: 1300px; margin: 80px auto; display: flex; justify-content: space-around; font-size: 25px; line-height: 38px; font-weight: lighter; }
 
 .color { height: 700px; }
 .color h3 { font-size: 48px; margin-left: 80px; font-weight: 300; line-height: 80px; }
@@ -189,7 +189,7 @@ text { fill: #000; font-size: 18px; }
 #imgWrap1 { width: 450px; display: flex; flex-direction: column; margin: 170px auto; position: relative; }
 .img_coffee { width: 100%; position: absolute; top: 0; left: 0; clip: rect( 0, 450px, 450px, 225px); transition: 1.5s; }
 
-#line { width: 1900px; height: 650px; position: absolute; top: -145px; left: 0px; z-index: -1; }
+#line { width: 1800px; height: 700px; position: absolute; top: -145px; left: -300px; z-index: -1; }
 .st2 { fill:none; stroke:#000; stroke-miterlimit:10; }
 
 #recycle_capsule dt { line-height: 80px; }
@@ -258,7 +258,7 @@ text { fill: #000; font-size: 18px; }
 .job p:nth-of-type(2) { font-size: 38px; font-weight: 300; position: absolute; top: 645px; right: 305px; z-index: 1; }
 .job p:nth-of-type(3) { font-size: 22px; font-weight: 100; line-height: 50px; text-align: center; position: absolute; top: 870px; right: 190px; }
 
-.job img:nth-of-type(1) { position: absolute; top: 450px; right: 235px; }
+.job img:nth-of-type(1) { position: absolute; top: 450px; right: 250px; }
 .job img:nth-of-type(2) { position: absolute; top: 560px; right: 235px; }
 
 #needs { height: 2000px; margin-top: 100px; position: relative; }
@@ -272,10 +272,10 @@ text { fill: #000; font-size: 18px; }
 .style { height: 1500px; position: relative; }
 .style > p { font-weight: 100; } 
 .style > p:nth-of-type(1) { font-size: 60px; margin-left: 150px; font-weight: 300; }
-.style > p:nth-of-type(2) { font-size: 19px; line-height: 35px; position: absolute; top: 15px; right: 240px; line-height: 40px; }
-.style > p:nth-of-type(3) { font-size: 20px; position: absolute; top: 470px; left: 150px; }
-.style > p:nth-of-type(4) { font-size: 20px; position: absolute; top: 380px; left: 540px; }
-.style > p:nth-of-type(5) { font-size: 20px; position: absolute; top: 780px; left: 750px; }
+.style > p:nth-of-type(2) { font-size: 20px; line-height: 35px; position: absolute; top: 15px; right: 240px; line-height: 40px; }
+.style > p:nth-of-type(3) { font-size: 21px; position: absolute; top: 470px; left: 150px; }
+.style > p:nth-of-type(4) { font-size: 21px; position: absolute; top: 380px; left: 540px; }
+.style > p:nth-of-type(5) { font-size: 21px; position: absolute; top: 780px; left: 750px; }
 
 .color2 { position: absolute; top: 450px; left: -230px; }
 
@@ -298,12 +298,12 @@ text { fill: #000; font-size: 18px; }
 .icon p { font-size: 60px; font-weight: lighter;  }
 .icon p:nth-of-type(1) { position: absolute; top: 205px; left: 65px; }
 .icon p:nth-of-type(2) { position: absolute; top: 40px; right: 435px; }
-.icon img { margin-left: 70px; }
+.icon img { margin-left: 90px; }
 
 .app1 { position: relative; } 
-.app1 p:nth-of-type(1) { font-size: 20px; line-height: 35px; font-weight: 300; margin-left: 150px; }
+.app1 p:nth-of-type(1) { font-size: 22px; line-height: 35px; font-weight: 300; margin-left: 150px; }
 .app1 p:nth-of-type(1) > img { width: 25px; }
-.app1 p:nth-of-type(2) { font-size: 20px; line-height: 35px; font-weight: 300; position: absolute; top: 700px; right: 480px; }
+.app1 p:nth-of-type(2) { font-size: 22px; line-height: 35px; font-weight: 300; position: absolute; top: 800px; right: 400px; }
 
 .greenStar3 { position: absolute; top: 0; right: 150px; }
 .app1 > img:nth-of-type(2) { margin: 300px 0 0 400px; width: 350px; }
@@ -313,22 +313,22 @@ text { fill: #000; font-size: 18px; }
 .app2 { height: 1500px; position: relative; }
 .app2 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
 .app2 > p:nth-of-type(1) { position: absolute; top: 70px; left: 720px; }
-.app2 > p:nth-of-type(2) { position: absolute; top: 920px; right: 320px; }
+.app2 > p:nth-of-type(2) { position: absolute; top: 920px; right: 400px; }
 .app2 > p:nth-of-type(3) { position: absolute; top: 1050px; left: 350px; }
 
 
 
 .app2 > img:nth-of-type(1) { position: absolute; top: -75px; left: 365px; width: 150px; }
-.app2 > img:nth-of-type(2) { position: absolute; top: 210px; left: 300px; z-index: -1; width: 1150px; }
+.app2 > img:nth-of-type(2) { position: absolute; top: 210px; left: 300px; z-index: -1; width: 1200px; }
 .app2 > img:nth-of-type(3) { position: absolute; top: 298px; right: 587px; width: 140px; }
 .app2 > img:nth-of-type(4) { position: absolute; top: 300px; right: 200px; height: 1200px; }
 
 .app3 { height: 850px; position: relative; }
 .app3 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
 .app3 > p:nth-of-type(1) { position: absolute; top: 500px; left: 358px; }
-.app3 > p:nth-of-type(2) { position: absolute; top: 620px; right: 250px; }
+.app3 > p:nth-of-type(2) { position: absolute; top: 620px; right: 300px; }
 
-.app3 > img { position: absolute; top: -210px; left: 300px; z-index: -1; width: 1150px; }
+.app3 > img { position: absolute; top: -210px; left: 300px; z-index: -1; width: 1200px; }
 
 .app4 { height: 1000px; position: relative; }
 .app4 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
@@ -340,14 +340,14 @@ text { fill: #000; font-size: 18px; }
 .app4 > img:nth-of-type(5) { position: absolute; bottom: -5px; right: -50px; }
 
 .app4 > p:nth-of-type(1) { position: absolute; top: 85px; right: 300px; }
-.app4 > p:nth-of-type(2) { position: absolute; top: 185px; right: 310px; }
+.app4 > p:nth-of-type(2) { position: absolute; top: 185px; right: 350px; }
 
 .app5 { height: 1000px; position: relative; }
 .app5 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
 .app5 > p:nth-of-type(1) { position: absolute; top: 960px; left: 300px; } 
 .app5 > p:nth-of-type(2) { position: absolute; top: 960px; right: 340px; }
 
-.app5 > img:nth-of-type(1) { position: absolute; top: 150px; left: 300px; width: 1150px; }
+.app5 > img:nth-of-type(1) { position: absolute; top: 150px; left: 350px; width: 1200px; }
 .app5 > img:nth-of-type(2) { position: absolute; top: 770px; right: 407px; width: 960px; }
  
 .app6 { height: 1500px; position: relative; }
@@ -360,6 +360,6 @@ text { fill: #000; font-size: 18px; }
 footer { height: 800px; position: relative; }
 .column2 { position: absolute; top: 340px; left: -300px; display: flex; text-transform: uppercase; font-weight: 300; transform: rotate(90deg); }
 .column2 p:nth-child(-n+2) { margin-right: 200px; }
-footer > img { margin-left: 150px; }
-footer > h2 { font-size: 80px; font-weight: 500; text-transform: uppercase; position: absolute; left: 400px; }
+footer > img { margin-left: 200px; }
+footer > h2 { font-size: 80px; font-weight: 500; text-transform: uppercase; position: absolute; left: 430px; }
 footer > p { font-size: 30px; font-weight: 300; line-height: 80px; position: absolute; right: 400px; top: 380px; }
