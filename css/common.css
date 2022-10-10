@@ -26,7 +26,7 @@ nav ul li:nth-child(3) { color: #8c8c8c; }
 .salmon {  position: absolute; top: 1200px; right: 200px; }
 .design { position: absolute; top: 100px; left: 100px; font-size: 150px; text-transform: uppercase; transform: rotate(-20deg); }
 .portfolio { position: absolute; top: 430px; left: 200px; font-size: 150px; text-transform: uppercase;  }
-.svg1 { width: 1700px; height: 1200px; position: absolute; top: 160px; left: 30px; }
+.svg1 { width: 1700px; height: 1200px; position: absolute; top: 160px; left: 50px; }
 text { fill: #000; font-size: 18px; }
 .column { position: absolute; top: 1200px; right: -1000px; display: flex; text-transform: uppercase; font-weight: 300; transform: rotate(90deg); }
 .column p:nth-child(-n+2) { margin-right: 900px; }
@@ -34,7 +34,7 @@ text { fill: #000; font-size: 18px; }
 
 #introduce { height: 1700px; position: relative; }
 .orange1 { position: absolute; top: 0; right: 100px; transform: rotate(90deg); }
-.mint1 { position: absolute; top: 200px; left: 1050px; width: 400px; } 
+.mint1 { position: absolute; top: 200px; left: 1000px; width: 400px; } 
 .blackStar { position: absolute; bottom: 200px; left: 300px; width: 100px; animation: blink-effect 2s step-end infinite; }
 @keyframes blink-effect {
   50% { opacity: 0; }
@@ -98,7 +98,7 @@ text { fill: #000; font-size: 18px; }
 #career ul { width: 1400px; margin: 0 auto; text-align: right; display: flex;  justify-content: space-around; font-size: 20px; }
 #career li { width: 100%; margin-bottom:  40px; }
 #career span { position: absolute; left: 150px; font-weight: bold; }
-#career img { margin-left: 80px; width: 1700px; }
+#career img { margin-left: 80px; width: 1900px; }
 
 #work { position: relative; }
 .title { height: 800px; position: relative; }
