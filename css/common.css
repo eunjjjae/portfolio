@@ -34,7 +34,7 @@ text { fill: #000; font-size: 18px; }
 
 #introduce { height: 1700px; position: relative; }
 .orange1 { position: absolute; top: 0; right: 100px; transform: rotate(90deg); }
-.mint1 { position: absolute; top: 200px; left: 1000px; width: 400px; } 
+.mint1 { position: absolute; top: 200px; left: 950px; width: 400px; } 
 .blackStar { position: absolute; bottom: 200px; left: 300px; width: 100px; animation: blink-effect 2s step-end infinite; }
 @keyframes blink-effect {
   50% { opacity: 0; }
@@ -98,7 +98,7 @@ text { fill: #000; font-size: 18px; }
 #career ul { width: 1400px; margin: 0 auto; text-align: right; display: flex;  justify-content: space-around; font-size: 20px; }
 #career li { width: 100%; margin-bottom:  40px; }
 #career span { position: absolute; left: 150px; font-weight: bold; }
-#career img { margin-left: 80px; width: 1900px; }
+#career img { margin-left: 80px; width: 1800px; }
 
 #work { position: relative; }
 .title { height: 800px; position: relative; }
@@ -107,7 +107,7 @@ text { fill: #000; font-size: 18px; }
 .pink2 { position: absolute; top: 50px; right: 100px; }
 .circle2 { position: absolute; bottom: 70px; right: 470px; width: 220px; }
 
-.svg3 { width: 1600px; height: 765px; position: absolute; top: 0; left: 100px; }
+.svg3 { width: 1600px; height: 765px; position: absolute; top: 0; left: 90px; }
 
 .nespresso1 { height: 600px; margin: 200px 0; position: relative; }
 .nespresso1 h3 { font-size: 35px; font-weight: normal; margin: 0 0 150px 70px; }
@@ -132,7 +132,7 @@ text { fill: #000; font-size: 18px; }
 .nespresso1 p:nth-of-type(5) { position: absolute; top: 220px; right: 240px; font-size: 19px; line-height: 38px; }
 
 .mockup { height: 1450px; }
-.mockup img { margin: 0 0 150px 150px;  }
+.mockup img { margin: 0 0 150px 200px;  }
 .mockup h3 { font-size: 50px; margin-left: 70px; font-weight: 300; }
 .mockup div { width: 1300px; margin: 80px auto; display: flex; justify-content: space-around; font-size: 23px; line-height: 38px; font-weight: lighter; }
 
