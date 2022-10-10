@@ -26,7 +26,7 @@ nav ul li:nth-child(3) { color: #8c8c8c; }
 .salmon {  position: absolute; top: 1200px; right: 200px; }
 .design { position: absolute; top: 100px; left: 100px; font-size: 150px; text-transform: uppercase; transform: rotate(-20deg); }
 .portfolio { position: absolute; top: 430px; left: 200px; font-size: 150px; text-transform: uppercase;  }
-.svg1 { width: 1800px; height: 1200px; position: absolute; top: 160px; left: 15px; }
+.svg1 { width: 1700px; height: 1200px; position: absolute; top: 160px; left: 30px; }
 text { fill: #000; font-size: 18px; }
 .column { position: absolute; top: 1200px; right: -1000px; display: flex; text-transform: uppercase; font-weight: 300; transform: rotate(90deg); }
 .column p:nth-child(-n+2) { margin-right: 900px; }
@@ -98,7 +98,7 @@ text { fill: #000; font-size: 18px; }
 #career ul { width: 1400px; margin: 0 auto; text-align: right; display: flex;  justify-content: space-around; font-size: 20px; }
 #career li { width: 100%; margin-bottom:  40px; }
 #career span { position: absolute; left: 150px; font-weight: bold; }
-#career img { margin-left: 80px; width: 1550px; }
+#career img { margin-left: 80px; width: 1700px; }
 
 #work { position: relative; }
 .title { height: 800px; position: relative; }
@@ -107,7 +107,7 @@ text { fill: #000; font-size: 18px; }
 .pink2 { position: absolute; top: 50px; right: 100px; }
 .circle2 { position: absolute; bottom: 70px; right: 470px; width: 220px; }
 
-.svg3 { width: 1600px; height: 765px; position: absolute; top: 0; left: 60px; }
+.svg3 { width: 1600px; height: 765px; position: absolute; top: 0; left: 100px; }
 
 .nespresso1 { height: 600px; margin: 200px 0; position: relative; }
 .nespresso1 h3 { font-size: 35px; font-weight: normal; margin: 0 0 150px 70px; }
@@ -132,7 +132,7 @@ text { fill: #000; font-size: 18px; }
 .nespresso1 p:nth-of-type(5) { position: absolute; top: 220px; right: 240px; font-size: 19px; line-height: 38px; }
 
 .mockup { height: 1450px; }
-.mockup img { margin: 0 0 150px 40px;  }
+.mockup img { margin: 0 0 150px 150px;  }
 .mockup h3 { font-size: 50px; margin-left: 70px; font-weight: 300; }
 .mockup div { width: 1300px; margin: 80px auto; display: flex; justify-content: space-around; font-size: 23px; line-height: 38px; font-weight: lighter; }
 
@@ -189,7 +189,7 @@ text { fill: #000; font-size: 18px; }
 #imgWrap1 { width: 450px; display: flex; flex-direction: column; margin: 170px auto; position: relative; }
 .img_coffee { width: 100%; position: absolute; top: 0; left: 0; clip: rect( 0, 450px, 450px, 225px); transition: 1.5s; }
 
-#line { width: 1730px; height: 640px; position: absolute; top: -145px; left: -265px; z-index: -1; }
+#line { width: 1920px; height: 640px; position: absolute; top: -145px; left: -265px; z-index: -1; }
 .st2 { fill:none; stroke:#000; stroke-miterlimit:10; }
 
 #recycle_capsule dt { line-height: 80px; }
@@ -200,7 +200,7 @@ text { fill: #000; font-size: 18px; }
 
 
 .greenStar2 { margin-left: 1230px; }
-.svg4 { width: 1675px; height: 568px; margin-left: 25px; } 
+.svg4 { width: 1675px; height: 568px; margin-left: 50px; } 
 
 .took { height: 1300px; margin-top: 120px; position: relative; }
 .took h3 { font-size: 35px; text-transform: uppercase; font-weight: normal;  margin: 0 0 150px 70px;  }
@@ -211,7 +211,7 @@ text { fill: #000; font-size: 18px; }
 .took p:nth-of-type(2) span { padding-left: 20px; }
 
 .took img:nth-of-type(2) { position: absolute; top: 340px; left: 206px; }
-.took img:nth-of-type(3) { position: absolute; top: 480px; left: 500px; } 
+.took img:nth-of-type(3) { position: absolute; top: 480px; left: 700px; } 
 
 #background { height: 2000px; position: relative; }
 #background h3 { font-size: 25px; font-weight: normal; margin: 0 0 30px 150px; }
@@ -228,7 +228,7 @@ text { fill: #000; font-size: 18px; }
 #background img:nth-of-type(4) { position: absolute; bottom: 200px; right: 100px; width: 250px; }
 .yellowStar2 { position: absolute; bottom: 50px; left: 900px; }
 
-#line2 { width: 1728px; position: absolute; top: 750px; left: 0; z-index: -1; }
+#line2 { width: 1800px; position: absolute; top: 750px; left: 0; z-index: -1; }
 .st1 { fill: none; stroke: #1901ff; stroke-miterlimit: 10;   }
 
 
@@ -258,11 +258,11 @@ text { fill: #000; font-size: 18px; }
 .job p:nth-of-type(2) { font-size: 38px; font-weight: 300; position: absolute; top: 645px; right: 305px; z-index: 1; }
 .job p:nth-of-type(3) { font-size: 22px; font-weight: 100; line-height: 50px; text-align: center; position: absolute; top: 870px; right: 190px; }
 
-.job img:nth-of-type(1) { position: absolute; top: 450px; left: 1200px; }
+.job img:nth-of-type(1) { position: absolute; top: 450px; right: 235px; }
 .job img:nth-of-type(2) { position: absolute; top: 560px; right: 235px; }
 
 #needs { height: 2000px; margin-top: 100px; position: relative; }
-#needs img { margin-left: 125px; }
+#needs img { margin-left: 300px; }
 
 #needs p:nth-of-type(1) { font-size: 60px; margin: 0  0 200px 150px; }
 #needs p:nth-of-type(2) { font-size: 25px; line-height: 43px; font-weight: 300; position: absolute; top: 455px; right: 450px; transform: rotate(-20deg); } 
