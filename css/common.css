@@ -98,7 +98,7 @@ text { fill: #000; font-size: 18px; }
 #career ul { width: 1400px; margin: 0 auto; text-align: right; display: flex;  justify-content: space-around; font-size: 20px; }
 #career li { width: 100%; margin-bottom:  40px; }
 #career span { position: absolute; left: 150px; font-weight: bold; }
-#career img { margin-left: 80px; width: 1800px; }
+#career img { margin-left: 80px; width: 1700px; }
 
 #work { position: relative; }
 .title { height: 800px; position: relative; }
@@ -107,7 +107,7 @@ text { fill: #000; font-size: 18px; }
 .pink2 { position: absolute; top: 50px; right: 100px; }
 .circle2 { position: absolute; bottom: 70px; right: 470px; width: 220px; }
 
-.svg3 { width: 1600px; height: 765px; position: absolute; top: 0; left: 90px; }
+.svg3 { width: 1600px; height: 765px; position: absolute; top: 0; left: 100px; }
 
 .nespresso1 { height: 600px; margin: 200px 0; position: relative; }
 .nespresso1 h3 { font-size: 35px; font-weight: normal; margin: 0 0 150px 70px; }
@@ -132,7 +132,7 @@ text { fill: #000; font-size: 18px; }
 .nespresso1 p:nth-of-type(5) { position: absolute; top: 220px; right: 240px; font-size: 19px; line-height: 38px; }
 
 .mockup { height: 1450px; }
-.mockup img { margin: 0 0 150px 200px;  }
+.mockup img { margin: 0 0 180px 150px;  }
 .mockup h3 { font-size: 50px; margin-left: 70px; font-weight: 300; }
 .mockup div { width: 1300px; margin: 80px auto; display: flex; justify-content: space-around; font-size: 23px; line-height: 38px; font-weight: lighter; }
 
@@ -189,7 +189,7 @@ text { fill: #000; font-size: 18px; }
 #imgWrap1 { width: 450px; display: flex; flex-direction: column; margin: 170px auto; position: relative; }
 .img_coffee { width: 100%; position: absolute; top: 0; left: 0; clip: rect( 0, 450px, 450px, 225px); transition: 1.5s; }
 
-#line { width: 1920px; height: 640px; position: absolute; top: -145px; left: -265px; z-index: -1; }
+#line { width: 1900px; height: 650px; position: absolute; top: -145px; left: 0px; z-index: -1; }
 .st2 { fill:none; stroke:#000; stroke-miterlimit:10; }
 
 #recycle_capsule dt { line-height: 80px; }
@@ -200,7 +200,7 @@ text { fill: #000; font-size: 18px; }
 
 
 .greenStar2 { margin-left: 1230px; }
-.svg4 { width: 1675px; height: 568px; margin-left: 50px; } 
+.svg4 { width: 1675px; height: 568px; margin-left: 100px; } 
 
 .took { height: 1300px; margin-top: 120px; position: relative; }
 .took h3 { font-size: 35px; text-transform: uppercase; font-weight: normal;  margin: 0 0 150px 70px;  }
@@ -211,7 +211,7 @@ text { fill: #000; font-size: 18px; }
 .took p:nth-of-type(2) span { padding-left: 20px; }
 
 .took img:nth-of-type(2) { position: absolute; top: 340px; left: 206px; }
-.took img:nth-of-type(3) { position: absolute; top: 480px; left: 700px; } 
+.took img:nth-of-type(3) { position: absolute; top: 600px; left: 600px; } 
 
 #background { height: 2000px; position: relative; }
 #background h3 { font-size: 25px; font-weight: normal; margin: 0 0 30px 150px; }
@@ -228,7 +228,7 @@ text { fill: #000; font-size: 18px; }
 #background img:nth-of-type(4) { position: absolute; bottom: 200px; right: 100px; width: 250px; }
 .yellowStar2 { position: absolute; bottom: 50px; left: 900px; }
 
-#line2 { width: 1800px; position: absolute; top: 750px; left: 0; z-index: -1; }
+#line2 { width: 1800px; position: absolute; top: 750px; left: 50px; z-index: -1; }
 .st1 { fill: none; stroke: #1901ff; stroke-miterlimit: 10;   }
 
 
