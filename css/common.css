@@ -313,20 +313,20 @@ text { fill: #000; font-size: 18px; }
 .app2 { height: 1500px; position: relative; }
 .app2 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
 .app2 > p:nth-of-type(1) { position: absolute; top: 70px; left: 720px; }
-.app2 > p:nth-of-type(2) { position: absolute; top: 920px; left: 1150px; }
+.app2 > p:nth-of-type(2) { position: absolute; top: 920px; left: 1160px; }
 .app2 > p:nth-of-type(3) { position: absolute; top: 1050px; left: 350px; }
 
 
 
 .app2 > img:nth-of-type(1) { position: absolute; top: -75px; left: 365px; width: 150px; }
 .app2 > img:nth-of-type(2) { position: absolute; top: 210px; left: 300px; z-index: -1; width: 1200px; }
-.app2 > img:nth-of-type(3) { position: absolute; top: 298px; left: 1000px; width: 140px; }
-.app2 > img:nth-of-type(4) { position: absolute; top: 302px; left: 1350px; height: 1200px; }
+.app2 > img:nth-of-type(3) { position: absolute; top: 298px; left: 1035px; width: 140px; }
+.app2 > img:nth-of-type(4) { position: absolute; top: 302px; left: 1400px; height: 1200px; }
 
 .app3 { height: 850px; position: relative; }
 .app3 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
 .app3 > p:nth-of-type(1) { position: absolute; top: 500px; left: 358px; }
-.app3 > p:nth-of-type(2) { position: absolute; top: 620px; left: 750px; }
+.app3 > p:nth-of-type(2) { position: absolute; top: 620px; left: 760px; }
 
 .app3 > img { position: absolute; top: -210px; left: 300px; z-index: -1; width: 1200px; }
 
@@ -344,16 +344,16 @@ text { fill: #000; font-size: 18px; }
 
 .app5 { height: 1000px; position: relative; }
 .app5 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
-.app5 > p:nth-of-type(1) { position: absolute; top: 960px; left: 315px; } 
-.app5 > p:nth-of-type(2) { position: absolute; top: 960px; left: 1160px; }
+.app5 > p:nth-of-type(1) { position: absolute; top: 960px; left: 325px; } 
+.app5 > p:nth-of-type(2) { position: absolute; top: 960px; left: 1170px; }
 
 .app5 > img:nth-of-type(1) { position: absolute; top: 150px; left: 350px; width: 1200px; }
-.app5 > img:nth-of-type(2) { position: absolute; top: 770px; left: 360px; width: 960px; }
+.app5 > img:nth-of-type(2) { position: absolute; top: 770px; left: 370px; width: 960px; }
  
 .app6 { height: 1500px; position: relative; }
 .app6 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
 .app6 > p:nth-of-type(1) { position: absolute; top: 1000px; left: 360px; }
-.app6 > p:nth-of-type(2) { position: absolute; top: 1000px; left: 1165px; }
+.app6 > p:nth-of-type(2) { position: absolute; top: 1000px; left: 1170px; }
 
 .app6 > img { position: absolute; top: 200px; left: 300px; width: 1200px;  }
 
