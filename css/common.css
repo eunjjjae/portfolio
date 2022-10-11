@@ -189,7 +189,7 @@ text { fill: #000; font-size: 18px; }
 #imgWrap1 { width: 450px; display: flex; flex-direction: column; margin: 170px auto; position: relative; }
 .img_coffee { width: 100%; position: absolute; top: 0; left: 0; clip: rect( 0, 450px, 450px, 225px); transition: 1.5s; }
 
-#line { width: 1900px; height: 700px; position: absolute; top: -300px; left: -400px; z-index: -1; }
+#line { width: 1900px; height: 700px; position: absolute; top: -200px; left: -350px; z-index: -1; }
 .st2 { fill:none; stroke:#000; stroke-miterlimit:10; }
 
 #recycle_capsule dt { line-height: 80px; }
@@ -297,7 +297,7 @@ text { fill: #000; font-size: 18px; }
 .icon { height: 900px; margin-top: 200px; position: relative; }
 .icon p { font-size: 60px; font-weight: lighter;  }
 .icon p:nth-of-type(1) { position: absolute; top: 205px; left: 150px; }
-.icon p:nth-of-type(2) { position: absolute; top: 40px; left: 1100px; }
+.icon p:nth-of-type(2) { position: absolute; top: 40px; left: 1105px; }
 .icon img { margin-left: 150px; }
 
 .app1 { position: relative; } 
@@ -313,7 +313,7 @@ text { fill: #000; font-size: 18px; }
 .app2 { height: 1500px; position: relative; }
 .app2 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
 .app2 > p:nth-of-type(1) { position: absolute; top: 70px; left: 720px; }
-.app2 > p:nth-of-type(2) { position: absolute; top: 920px; left: 1170px; }
+.app2 > p:nth-of-type(2) { position: absolute; top: 925px; left: 1175px; }
 .app2 > p:nth-of-type(3) { position: absolute; top: 1050px; left: 350px; }
 
 
@@ -325,7 +325,7 @@ text { fill: #000; font-size: 18px; }
 
 .app3 { height: 850px; position: relative; }
 .app3 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
-.app3 > p:nth-of-type(1) { position: absolute; top: 500px; left: 358px; }
+.app3 > p:nth-of-type(1) { position: absolute; top: 510px; left: 358px; }
 .app3 > p:nth-of-type(2) { position: absolute; top: 620px; left: 760px; }
 
 .app3 > img { position: absolute; top: -210px; left: 300px; z-index: -1; width: 1200px; }
@@ -345,15 +345,15 @@ text { fill: #000; font-size: 18px; }
 .app5 { height: 1000px; position: relative; }
 .app5 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
 .app5 > p:nth-of-type(1) { position: absolute; top: 960px; left: 335px; } 
-.app5 > p:nth-of-type(2) { position: absolute; top: 960px; left: 1190px; }
+.app5 > p:nth-of-type(2) { position: absolute; top: 960px; left: 1230px; }
 
 .app5 > img:nth-of-type(1) { position: absolute; top: 150px; left: 350px; width: 1200px; }
-.app5 > img:nth-of-type(2) { position: absolute; top: 775px; left: 380px; width: 960px; }
+.app5 > img:nth-of-type(2) { position: absolute; top: 775px; left: 385px; width: 960px; }
  
 .app6 { height: 1500px; position: relative; }
 .app6 > p { font-size: 20px; line-height: 35px; font-weight: 300; }
-.app6 > p:nth-of-type(1) { position: absolute; top: 1000px; left: 360px; }
-.app6 > p:nth-of-type(2) { position: absolute; top: 1000px; left: 1170px; }
+.app6 > p:nth-of-type(1) { position: absolute; top: 1000px; left: 370px; }
+.app6 > p:nth-of-type(2) { position: absolute; top: 1000px; left: 1180px; }
 
 .app6 > img { position: absolute; top: 200px; left: 300px; width: 1200px;  }
 
