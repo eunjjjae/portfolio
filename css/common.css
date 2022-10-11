@@ -189,7 +189,7 @@ text { fill: #000; font-size: 18px; }
 #imgWrap1 { width: 450px; display: flex; flex-direction: column; margin: 170px auto; position: relative; }
 .img_coffee { width: 100%; position: absolute; top: 0; left: 0; clip: rect( 0, 450px, 450px, 225px); transition: 1.5s; }
 
-#line { width: 1900px; height: 700px; position: absolute; top: -200px; left: -200px; z-index: -1; }
+#line { width: 1900px; height: 700px; position: absolute; top: -500px; left: 0; z-index: -1; }
 .st2 { fill:none; stroke:#000; stroke-miterlimit:10; }
 
 #recycle_capsule dt { line-height: 80px; }
@@ -228,7 +228,7 @@ text { fill: #000; font-size: 18px; }
 #background img:nth-of-type(4) { position: absolute; bottom: 200px; right: 100px; width: 250px; }
 .yellowStar2 { position: absolute; bottom: 50px; left: 900px; }
 
-#line2 { width: 1900px; position: absolute; top: 750px; left: 50px; z-index: -1; }
+#line2 { width: 1900px; position: absolute; top: 750px; left: 0; z-index: -1; }
 .st1 { fill: none; stroke: #1901ff; stroke-miterlimit: 10;   }
 
 
@@ -297,7 +297,7 @@ text { fill: #000; font-size: 18px; }
 .icon { height: 900px; margin-top: 200px; position: relative; }
 .icon p { font-size: 60px; font-weight: lighter;  }
 .icon p:nth-of-type(1) { position: absolute; top: 205px; left: 150px; }
-.icon p:nth-of-type(2) { position: absolute; top: 40px; right: 550px; }
+.icon p:nth-of-type(2) { position: absolute; top: 40px; left: 1030px; }
 .icon img { margin-left: 150px; }
 
 .app1 { position: relative; } 
